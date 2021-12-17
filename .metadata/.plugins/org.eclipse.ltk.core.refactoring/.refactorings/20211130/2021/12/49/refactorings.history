@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Datainteger&apos; to &apos;DataInteger&apos;&#x0D;&#x0A;- Original project: &apos;20211130&apos;&#x0D;&#x0A;- Original element: &apos;Datainteger&apos;&#x0D;&#x0A;- Renamed element: &apos;DataInteger&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Datainteger&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Datainteger.java[Datainteger" matchStrategy="1" name="DataInteger" qualified="false" references="true" similarDeclarations="false" stamp="1638339875307" textual="false" version="1.0"/>
+</session>

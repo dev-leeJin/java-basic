@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;SwithCase01P99&apos; to &apos;SwitchCase01P99&apos;&#x0D;&#x0A;- Original project: &apos;20211202&apos;&#x0D;&#x0A;- Original element: &apos;SwithCase01P99&apos;&#x0D;&#x0A;- Renamed element: &apos;SwitchCase01P99&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SwithCase01P99&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{SwithCase01P99.java[SwithCase01P99" matchStrategy="1" name="SwitchCase01P99" qualified="false" references="true" similarDeclarations="false" stamp="1638492165512" textual="false" version="1.0"/>
+</session>

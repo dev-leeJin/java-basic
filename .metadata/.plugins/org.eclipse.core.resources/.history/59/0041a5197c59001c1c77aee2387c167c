@@ -1,0 +1,15 @@
+package constructor;
+
+public class Main02P204 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		BasketballPlayer a =new BasketballPlayer(190 , 130);
+		
+		BasketballPlayer b =new BasketballPlayer(180 , 110);
+		
+		a.dunkShot();
+		b.dunkShot();
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;game.lnheritance.Magicion&apos; to &apos;Magician&apos;&#x0D;&#x0A;- Original project: &apos;20211215&apos;&#x0D;&#x0A;- Original element: &apos;game.lnheritance.Magicion&apos;&#x0D;&#x0A;- Renamed element: &apos;game.lnheritance.Magician&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Magicion&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;game.lnheritance{Magicion.java[Magicion" matchStrategy="1" name="Magician" qualified="false" references="true" similarDeclarations="false" stamp="1639548624558" textual="false" version="1.0"/>
+</session>

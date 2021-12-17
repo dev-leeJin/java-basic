@@ -1,0 +1,14 @@
+package game.lnheritance;
+
+public class Main03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Magicion m1 = new Magicion("마법사1");
+		m1.getInfo();
+		
+		Archer a1 = new Archer("원거리딜러1");
+		a1.getInfo();
+	}
+
+}

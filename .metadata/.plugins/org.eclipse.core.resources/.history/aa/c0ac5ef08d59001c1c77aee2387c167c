@@ -1,0 +1,28 @@
+package constructor;
+
+public class Webtoon {
+	public String name;
+	public int series;
+	public String painter;
+	public boolean complete;
+	
+	
+	public Webtoon(String n, int s, String p, boolean c) {
+		name = n;
+		series = s;
+		painter = p;
+		complete = c;
+
+		
+	}
+	public void getInfo() {
+		System.out.println("제목 : "+name+", 회차 : "+series);
+	}
+	public void uploadWebtoon() {
+		series += 1;
+		
+	}
+	public void completeWebtoon() {
+		complete = true;
+	}
+}

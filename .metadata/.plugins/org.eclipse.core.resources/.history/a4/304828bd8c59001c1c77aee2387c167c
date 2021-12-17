@@ -1,0 +1,14 @@
+package constructor;
+
+public class Main04P204 {
+
+	public static void main(String[] args) {
+		Webtoon a = new Webtoon("신의탑", 98, "slu", false);
+		a.getInfo();
+		a.uploadWebtoon();
+		a.getInfo();
+		
+
+	}
+
+}

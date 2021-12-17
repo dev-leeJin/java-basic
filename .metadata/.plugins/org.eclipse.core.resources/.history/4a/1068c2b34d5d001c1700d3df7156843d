@@ -1,0 +1,21 @@
+package game.lnheritance;
+
+public class Commoner {
+	private int lv;
+	private int hp;
+	private String id;
+	private int mp;
+	
+	public Commoner(String id) {
+		lv = 1;
+		hp = 20;
+		mp = 10;
+		this.id = id;
+		
+	}
+	public void getInfo() {
+		System.out.println("아이디 :" + id +" Lv :"+ lv +" Hp :"+ hp +" Mp :"+ mp);
+	}
+	
+
+}

@@ -10,7 +10,8 @@ public class Builder08P408 {
 		
 		str.reverse();
 		System.out.println(str);
-
+		
+		// 01234 -> 43210
 	}
 
 }
